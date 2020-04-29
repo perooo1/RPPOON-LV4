@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\RPPOON LV4\Zadatak 3, 4 i 5\bin\Debug\Zadatak 3, 4 i 5.exe.config
+C:\Users\korisnik\source\repos\RPPOON LV4\Zadatak 3, 4 i 5\bin\Debug\Zadatak 3, 4 i 5.exe
+C:\Users\korisnik\source\repos\RPPOON LV4\Zadatak 3, 4 i 5\bin\Debug\Zadatak 3, 4 i 5.pdb
+C:\Users\korisnik\source\repos\RPPOON LV4\Zadatak 3, 4 i 5\obj\Debug\Zadatak 3, 4 i 5.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\RPPOON LV4\Zadatak 3, 4 i 5\obj\Debug\Zadatak 3, 4 i 5.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\RPPOON LV4\Zadatak 3, 4 i 5\obj\Debug\Zadatak 3, 4 i 5.exe
+C:\Users\korisnik\source\repos\RPPOON LV4\Zadatak 3, 4 i 5\obj\Debug\Zadatak 3, 4 i 5.pdb
